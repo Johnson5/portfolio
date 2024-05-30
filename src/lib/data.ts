@@ -40,7 +40,7 @@ export const experiencesData = [
     title: "Software Developer · CTA Consulting",
     location: "Veenendaal, NL",
     description:
-      "Build and maintain online platforms for different clients in the automotive and energy sector, working within the low-code platform InfiniteBlue. My activities included designing and implementing front-end pages, designing back-end architecture and connecting external services to our platforms via API's.",
+      "I worked part-time at this job while finishing my bachelor's degree. My task was to build and maintain online platforms for different clients in the automotive and energy sector, working within the low-code platform InfiniteBlue. My activities included designing and implementing front-end pages, designing back-end architecture and connecting external services to our platforms via API's.",
     icon: React.createElement(IoLogoJavascript),
     date: "2022 - 2024",
   },
