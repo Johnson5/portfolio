@@ -4,6 +4,7 @@ import cognitivemapr from "../../public/cognitivemapr.png";
 import faenomenal from "../../public/faenomenal.png";
 import { IoLogoJavascript } from "react-icons/io";
 import { BsMusicNote } from "react-icons/bs";
+import { FaAndroid } from "react-icons/fa";
 
 export const links = [
   {
@@ -30,11 +31,18 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Junior Software Engineer · Sweco",
+    title: "Full-Stack Developer · NS",
     location: "Utrecht, NL",
-    description: "",
+    description: "As a Full Stack Developer, I work at NS (Dutch Railways) on the Wissel app, an Android app that helps our colleagues working on trains and stations. My work includes both the development of the app itself and the backend and cloud infrastructure. With this technology, we support the staff in their daily tasks and ensure they always have the most up-to-date information at their fingertips.",
+    icon: React.createElement(FaAndroid),
+    date: "2025 - present"
+  },
+  {
+    title: "Junior Software Engineer · Sweco",
+    location: "De Bilt, NL",
+    description: "As a software developer in Sweco's Rail & Stations division, I designed and implemented cutting-edge software solutions to enhance railway infrastructure and station operations. Collaborating with multidisciplinary teams, I focus on optimizing system performance and ensuring seamless integration with existing technologies. My work contributes to creating efficient, sustainable, and user-friendly transport systems.",
     icon: React.createElement(FaReact),
-    date: "2024 - present",
+    date: "2024 - 2025",
   },
   {
     title: "Software Developer · CTA Consulting",
@@ -74,17 +82,15 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "JavaScript",
+  "Kotlin",
+  "Android",
+  "Azure",
   "TypeScript",
   "React",
   "Next.js",
   "C#",
   ".NET",
-  "HTML",
-  "CSS",
-  "Node.js",
   "TailwindCSS",
-  "Python",
   "Framer Motion",
   "Git",
   "GitHub",
