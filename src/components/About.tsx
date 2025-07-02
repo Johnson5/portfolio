@@ -27,7 +27,7 @@ export default function About() {
         technical skills to develop innovative solutions. My expertise
         encompasses both front-end and back-end development, with a focus on{" "}
         <span className="font-medium transition hover:bg-gradient-to-r hover:from-blue-700 hover:to-blue-400 hover:bg-clip-text hover:text-transparent">
-          React (Next.js),
+          Azure cloud,
         </span>{" "}
         <span className="font-medium transition hover:bg-gradient-to-r hover:from-green-700 hover:to-green-400 hover:bg-clip-text hover:text-transparent">
           Android (Kotlin)
